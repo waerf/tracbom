@@ -1,0 +1,17 @@
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DebugUtils\DebugDraw.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DebugDraw.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DebugUtils\DetourDebugDraw.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourDebugDraw.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DetourCrowd\DetourCrowd.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourCrowd.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DetourCrowd\DetourLocalBoundary.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourLocalBoundary.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourObstacleAvoidance.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DetourCrowd\DetourPathCorridor.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourPathCorridor.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DetourCrowd\DetourPathQueue.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourPathQueue.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DetourCrowd\DetourProximityGrid.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourProximityGrid.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DetourTileCache\DetourTileCache.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourTileCache.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\DetourTileCache\DetourTileCacheBuilder.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourTileCacheBuilder.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\Detour\DetourAlloc.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourAlloc.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\Detour\DetourCommon.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourCommon.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\Detour\DetourNavMesh.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMesh.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\Detour\DetourNavMeshBuilder.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMeshBuilder.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\Detour\DetourNavMeshQuery.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMeshQuery.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\Detour\DetourNode.cpp;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\DetourNode.obj
+A:\apps\cocosPrj\tracbom\cocos2d\external\recast\fastlz\fastlz.c;A:\apps\cocosPrj\tracbom\cocos2d\external\recast\proj.win32\Debug.win32\fastlz.obj
